@@ -1,0 +1,35 @@
+{
+    "schema":  1,
+    "product":  "Mythical Cards",
+    "pluginVersion":  "1.3.3",
+    "releaseTag":  "v1.3.3-resource-packs",
+    "packages":  [
+                     {
+                         "id":  "1.21-1.21.8",
+                         "minMinecraftVersion":  "1.21",
+                         "maxMinecraftVersion":  "1.21.8",
+                         "file":  "ResourcePack-1.21-1.21.8.zip",
+                         "url":  "https://github.com/Official-Unreal-Studios/mythical-cards-resource-packs/releases/download/v1.3.3-resource-packs/ResourcePack-1.21-1.21.8.zip",
+                         "sha1":  "45461257e29662fb6601810d306eb5994023a0cf",
+                         "bytes":  15768386
+                     },
+                     {
+                         "id":  "1.21.9-1.21.11",
+                         "minMinecraftVersion":  "1.21.9",
+                         "maxMinecraftVersion":  "1.21.11",
+                         "file":  "ResourcePack-1.21.9-1.21.11.zip",
+                         "url":  "https://github.com/Official-Unreal-Studios/mythical-cards-resource-packs/releases/download/v1.3.3-resource-packs/ResourcePack-1.21.9-1.21.11.zip",
+                         "sha1":  "47e8d43fda8d947711bc8b4d975a62db35bc0536",
+                         "bytes":  15768367
+                     },
+                     {
+                         "id":  "26.1-26.3",
+                         "minMinecraftVersion":  "26.1",
+                         "maxMinecraftVersion":  "26.3",
+                         "file":  "ResourcePack-26.1-26.3.zip",
+                         "url":  "https://github.com/Official-Unreal-Studios/mythical-cards-resource-packs/releases/download/v1.3.3-resource-packs/ResourcePack-26.1-26.3.zip",
+                         "sha1":  "6340903162f7b5376974e336721627fabe6d1810",
+                         "bytes":  15768137
+                     }
+                 ]
+}
